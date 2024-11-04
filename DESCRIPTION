@@ -1,0 +1,11 @@
+Package: Friedman
+Title: Statistical Analysis and Visualization Tools in R
+Version: 0.0.0.9000
+Authors@R: c(person("Ahmed", "Elsayed", email = "azmy@ usf.edu", role = c("aut", "cre")))
+Description: This is a test package created to practice building R packages. It includes example
+    functions and demonstrates basic package structure, documentation, and dependency management. 
+    Ideal for learning the fundamentals of package development in R.
+Depends: R (>= 3.1.2)
+Imports: ggplot2, dplyr, stats
+License: CC0
+LazyData: true
